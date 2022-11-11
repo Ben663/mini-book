@@ -4,20 +4,20 @@ import Book from './Book'
 const books=[
   {
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Book_stub_img.svg/300px-Book_stub_img.svg.png",
-    author: "Maraga",
-     title: "FirstBook"
+    author: "Bengamin Grinvald",
+    title: "The First Book"
    },
    
    {
      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Book_stub_img.svg/300px-Book_stub_img.svg.png",
-     author: "Tator",
-     title: "mySecondBook"
+     author: "Bob Leo",
+     title: "The Second Book"
    },
    
     {
      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Book_stub_img.svg/300px-Book_stub_img.svg.png",
-     author: "third book",
-     title: "3333 Book"
+     author: "Big Snoow",
+     title: "The Third Book"
    }
  ]
 function BookList(){
